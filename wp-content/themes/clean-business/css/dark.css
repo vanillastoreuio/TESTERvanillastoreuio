@@ -1,0 +1,245 @@
+/*
+	A dark color scheme for Clean Business
+*/
+
+body,
+button,
+input,
+select,
+textarea {
+    background-color: #333;
+}
+body,
+button,
+input,
+select,
+textarea,
+#nav-below .wp-pagenavi span.pages {
+	color: #bebebe;
+}
+.content-area .hentry,
+.page-header,
+#secondary,
+.comments-area .comment-body,
+#respond {
+	background-color: #1b1b1b;
+	border-color: #444;
+}
+.posts-navigation .nav-links a {
+	background-color: #333;
+}
+.scrollup {
+	background-color: #333;
+}
+#featured-content .entry-title {
+	color: #ddd;
+}
+#featured-content .entry-title a,
+.comments-area a.url {
+	color: #e8554e;
+}
+.content-area .entry-title,
+.content-area .entry-title a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #ddd;
+}
+.content-area .entry-title a:hover,
+.content-area .entry-title a:focus {
+	color: #e8554e;
+}
+#featured-content .entry-title a:hover,
+#featured-content .entry-title a:focus,
+.comments-area a.url:hover,
+.comments-area a.url:focus,
+.comment-title,
+.comment-reply-title {
+	color: #fff;
+}
+.cttagcloud .ct-tag-cloud-wrap.box a,
+.cttagcloud .ct-tag-cloud-wrap.rounded-corners a {
+    background-color: #333;
+    color: #bebebe;
+}
+.widget-area a {
+	color: #999;
+}
+.widget-area a:hover,
+.widget-area a:focus {
+	color: #e8554e;
+}
+.meta-post,
+.meta-post a,
+.entry-meta,
+.entry-meta a,
+.widget-area {
+    color: #bebebe;
+}
+.meta-post a:hover,
+.meta-post a:focus,
+.entry-meta a:hover,
+.entry-meta a:focus {
+    color: #e8554e;
+}
+.widget-area .widget-title {
+	color: #ddd;
+}
+a,
+#feature-slider .cycle-pager span.cycle-pager-active {
+    color: #e8554e;
+}
+a:hover {
+	color: #eee;
+}
+select,
+textarea,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"] {
+	background-color: #1b1b1b;
+	border-color: #444;
+	color: #eee;
+}
+input:-moz-placeholder,
+textarea:-moz-placeholder,
+input::-moz-placeholder,
+textarea::-moz-placeholder {
+  color: #fff;
+}
+input:-ms-input-placeholder,
+textarea:-ms-input-placeholder {
+  color: #fff;
+}
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+  color: #fff;
+}
+#featured-content {
+	background-image: url("../images/dark_bg.jpg");
+	background-color: #1b1b1b;
+    border-color: #444;
+}
+#promotion-message {
+	background-color: #111;
+}
+.site-content {
+	background-color: #1b1b1b;
+}
+.sidebar-header-right .widget_nav_menu a,
+.mobile-menu-anchor a.genericon-menu,
+.mobile-menu-anchor a.genericon-menu:hover,
+#promotion-message h2,
+.widget-title,
+.page-header .page-title,
+input[type=text]:focus,
+input[type=email]:focus,
+textarea:focus,
+th {
+	color: #ddd;
+}
+#masthead .search-field {
+	color: #000;
+	-moz-box-shadow: inset 0 2px 5px #ddd, 0 1px 0 #999;
+	-webkit-box-shadow: inset 0 2px 5px #ddd, 0 1px 0 #999;
+	box-shadow: inset 0 2px 5px #ddd, 0 1px 0 #999;
+}
+#footer-sidebar  {
+    color: #555;
+}
+
+#site-generator {
+    border-color: #222;
+}
+/* Social Widgets */
+.widget_clean_business_social_icons a {
+    background-color: transparent;
+    border-color: #444;
+    color: #999;
+}
+.widget_clean_business_social_icons a:hover,
+.widget_clean_business_social_icons a:focus {
+	background-color: #e8554e;
+	border-color: #e8554e;
+	color: #fff;
+}
+#homepage-message,
+#footer-sidebar,
+article .entry-format {
+    background-color: #111;
+}
+pre {
+    background-color: #333;
+    border-color: #444;
+    color: #fff;
+}
+hr {
+	background-color: #333;
+	color: #fff;
+}
+#promotion-message,
+#featured-content,
+#featured-post,
+#featured-post #feature-heading,
+#secondary .widget,
+#colophon,
+.blog #main .entry-container,
+.archive #main .entry-container,
+.archive-post-wrap,
+.page-header .page-title,
+#homepage-message,
+.site-content article,
+article.sticky .featured-sticky,
+#footer-sidebar,
+.wp-caption,
+.entry-content table,
+.comment-content table,
+.entry-content th,
+.comment-content th,
+.entry-content td,
+.comment-content td {
+    border-color: #444;
+}
+li.bypostauthor cite span {
+	background: none #111;
+	border-color: #444;
+	color: #fff;
+	box-shadow: none;
+    padding: 10px;
+}
+#supplementary {
+	border-color: #666;
+}
+.site-main #infinite-handle span button,
+#nav-below .wp-pagenavi a,
+#nav-below .wp-pagenavi span {
+    background-color: #444;
+}
+.site-main #infinite-handle span button,
+#nav-below .wp-pagenavi a,
+#nav-below .wp-pagenavi span,
+.page-links span {
+    color: #e4741f;
+}
+.site-main #infinite-handle span button:hover,
+.site-main #infinite-handle span button:focus,
+#nav-below .wp-pagenavi span.current,
+#nav-below .wp-pagenavi a:hover,
+#nav-below #wp_page_numbers ul li a:hover {
+    background-color: #ddd;
+    color: #000;
+}
